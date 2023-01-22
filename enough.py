@@ -34,7 +34,6 @@ for attribute in dir(SendSms):
     if callable(attribute_value):
         if attribute.startswith('__') == False:
             servisler_sms.append(attribute)    
-
 while 1:
     system("cls||clear")
     print("""{}
