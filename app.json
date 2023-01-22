@@ -1,7 +1,7 @@
 {
     "name": "Enough",
     "description": "SMS Bomber",
-    "repository": "https://github.com/tingirifistik/Enough",
+    "repository": "https://github.com/Bora185/SMS-Bomber",
     "env": {
         "TOKEN": {
             "description": "Telegram Botunun Token'ı: ",
