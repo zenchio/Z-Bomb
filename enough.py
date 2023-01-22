@@ -170,9 +170,6 @@ while 1:
                         exec("call."+attribute+"()")
         print(Fore.LIGHTRED_EX + "\nMenüye dönmek için 'enter' tuşuna basınız..")
         input()   
-        
-
-
     elif menu == 3:
         system("cls||clear")
         print(Fore.LIGHTRED_EX + "Çıkış yapılıyor...")
