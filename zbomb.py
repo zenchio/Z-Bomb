@@ -40,11 +40,11 @@ while 1:
     print("""{}
           
        ▀▀█     █▀▀▄ █▀▀█ █▀▄▀█ █▀▀▄
-       ▄▀  ▀ ▀ █▀▀▄ █  █ █ ▀ █ █▀▀▄
+       ▄▀  ▀▀▀ █▀▀▄ █  █ █ ▀ █ █▀▀▄
        ▀▀▀     ▀▀▀  ▀▀▀▀ ▀   ▀ ▀▀▀
         
     Sms: {}                         
-    Ara: {}                 
+    Ara (beta): {}                 
     """.format(Fore.LIGHTRED_EX, len(servisler_sms), len(servisler_call), Style.RESET_ALL, Fore.CYAN))
     print(Fore.LIGHTGREEN_EX+"{/} "+Fore.CYAN+"Katkıda bulunanlar: "+Fore.GREEN+"Bora185, tingirifistik\n")
     try:
