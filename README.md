@@ -1,5 +1,5 @@
 [![Hits](https://hits.sh/github.com/Bora185/SMS-Bomber.svg?label=views&color=c44ee7)](https://hits.sh/github.com/Bora185/SMS-Bomber/)
-# SMS-Bomber
+# Z-Bomb
 Enough SMS Bomber by @tingirifistik. Modified By Bora185
 # Kurulum
 ```
