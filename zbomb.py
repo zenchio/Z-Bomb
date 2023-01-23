@@ -3,6 +3,16 @@ from time import sleep
 from os import system
 from requests import get
 from sms import SendSms
+r = get("https://raw.githubusercontent.com/Bora185/Z-Bomb/main/sms.py").text
+with open("sms.py", "r", encoding="utf-8") as f:
+    read = f.read()
+if read == r:
+    pass
+else:
+    print(Fore.RED + "Güncelleme yapılıyor...")
+    with open("sms.py", "w", encoding="utf-8") as f:
+        f.write(r)
+from sms import SendSms
 r = get("https://raw.githubusercontent.com/tingirifistik/Enough/main/call.py").text
 with open("call.py", "r", encoding="utf-8") as f:
     read = f.read()
