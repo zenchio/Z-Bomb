@@ -3,7 +3,7 @@
 Enough SMS Bomber by @tingirifistik. Modified By Bora185
 # Kurulum
 ```
-git clone https://github.com/Bora185/SMS-Bomber.git
+git clone https://github.com/Bora185/Z-Bomb.git
 cd Enough
 pip3 install -r requirements.txt
 python3 enough.py
