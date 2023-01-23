@@ -46,7 +46,7 @@ while 1:
     Sms: {}                         
     Ara (beta): {}                 
     """.format(Fore.LIGHTRED_EX, len(servisler_sms), len(servisler_call), Style.RESET_ALL, Fore.CYAN))
-    print(Fore.LIGHTGREEN_EX+"{/} "+Fore.CYAN+"Katkıda bulunanlar: "+Fore.GREEN+"Bora185, tingirifistik\n")
+    print(Fore.LIGHTGREEN_EX+"{/} "+Style.RESET_ALL+"Katkıda bulunanlar: "+Fore.LIGHTGREEN_EX+Style.BRIGHT+"Bora185, tingirifistik\n"+Style.RESET_ALL)
     try:
         menu = int(input(Fore.LIGHTMAGENTA_EX + " 1- SMS Gönder\n 2- Ara\n 3- Çıkış\n\n" + Fore.LIGHTYELLOW_EX + " Seçim: "))
     except ValueError:
