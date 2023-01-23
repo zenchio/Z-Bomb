@@ -2,7 +2,6 @@ from colorama import Fore, Style
 from time import sleep
 from os import system
 from requests import get
-from sms import SendSms
 r = get("https://raw.githubusercontent.com/Bora185/Z-Bomb/main/sms.py").text
 with open("sms.py", "r", encoding="utf-8") as f:
     read = f.read()
