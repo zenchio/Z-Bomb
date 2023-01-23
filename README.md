@@ -1,5 +1,5 @@
 # SMS-Bomber
-Enough SMS Bomber by @tingirifistik. Modded By Bora185
+Enough SMS Bomber by @tingirifistik. Modified By Bora185
 # Kurulum
 ```
 git clone https://github.com/Bora185/SMS-Bomber.git
