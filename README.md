@@ -25,6 +25,6 @@ python3 enough.py
 Discord: bora#0744
 
 # Bilinen Hatalar
-Şu anda bilinen bir hata yoktur. Eğer bir hataya rastlarsanız "Issues" bölümünden bildirebilirsiniz.
+- Ara özelliği kararsız çalışıyor.
 
 
